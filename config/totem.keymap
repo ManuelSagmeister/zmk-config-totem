@@ -196,8 +196,8 @@
             // ┃   SHIFT   ┃     Y     ┃     X     ┃     C     ┃     V     ┃     B     ┃   ┃     N     ┃     M     ┃     ,     ┃     .     ┃     -     ┃     /     ┃
                  &kp LSHIFT    &kp Y       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M     &kp COMMA    &kp DOT    &kp MINUS    &kp FSLH
             // ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
-            //                                     ┃   MO NAV  ┃    TAB    ┃    SPC    ┃   ┃   ENTER   ┃   BSPC    ┃     2     ┃
-                                                       &mo NAV    &kp TAB    &kp SPACE       &kp ENTER    &kp BSPC     &kp N2
+            //                                     ┃   MO NAV  ┃    TAB    ┃    SPC    ┃   ┃   ENTER   ┃   BSPC    ┃   Super   ┃
+                                                       &mo NAV    &kp TAB    &kp SPACE       &kp ENTER    &kp BSPC    &kp LGUI
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
             >;
         };
