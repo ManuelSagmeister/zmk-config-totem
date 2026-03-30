@@ -197,7 +197,7 @@
                  &kp LSHIFT    &kp Y       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M     &kp COMMA    &kp DOT    &kp MINUS    &kp SLH
             // ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
             //                                     ┃   MO NAV  ┃    TAB    ┃    SPC    ┃   ┃   ENTER   ┃   BSPC    ┃     2     ┃
-                                                       &mo 1     &kp TAB    &kp SPACE       &kp ENTER    &kp BSPC     &kp N2
+                                                       &mo NAV    &kp TAB    &kp SPACE       &kp ENTER    &kp BSPC     &kp N2
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
             >;
         };
